@@ -1,0 +1,12 @@
+button {
+  background-color: green;
+}
+button {
+  background-color: red;
+}
+
+.alert-primary {
+  background-color: yellow;
+  color: red;
+  border-radius: 0;
+}
